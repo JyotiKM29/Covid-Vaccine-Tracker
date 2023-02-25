@@ -48,4 +48,4 @@ npm run build
 
 ## Contact
 
-Created by [@JyotiKM29](https://www.jyotikm.me) - feel free to contact me!
+Created by [@JyotiKM29](https://www.jyotikm.me)
